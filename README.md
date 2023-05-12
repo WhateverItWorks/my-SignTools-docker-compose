@@ -1,14 +1,15 @@
-# my-SearXNG-Docker-Compose
-Create a SearXNG Instance in 5 minutes using docker-compose.
+# my-SignTools-docker-compose
+
+✒ A free, self-hosted platform to sideload iOS apps without a computer
 
 ## Security Audits:
 
-- [Internet.ml](https://internet.nl/site/search.whateveritworks.org/2060148/)
+- [Internet.ml](https://internet.nl/site//2060148/)
 - [Mozilla.org](https://observatory.mozilla.org/)
-- [ImmuniWeb](https://www.immuniweb.com/ssl/search.whateveritworks.org/a8FxuGr6/)
+- [ImmuniWeb](https://www.immuniweb.com/ssl//a8FxuGr6/)
 - [HSTS Preload](https://hstspreload.org/)
-- [SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=search.whateveritworks.org)
-- [Security Headers](https://securityheaders.com/?q=search.whateveritworks.org&hide=on&followRedirects=on)
+- [SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=)
+- [Security Headers](https://securityheaders.com/?q=&hide=on&followRedirects=on)
 
 
 ## Usage:
